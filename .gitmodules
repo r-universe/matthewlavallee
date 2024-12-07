@@ -2,15 +2,9 @@
 	path = .registry
 	url = https://github.com/matthewlavallee/matthewlavallee.r-universe.dev
 	branch = HEAD
-[submodule "cransays"]
-	path = cransays
-	url = https://github.com/lockedata/cransays
-[submodule "glitter"]
-	path = glitter
-	url = https://github.com/lvaudor/glitter
-[submodule "roblog"]
-	path = roblog
-	url = https://github.com/ropenscilabs/roblog
+[submodule "hsr716"]
+	path = hsr716
+	url = https://github.com/MatthewLavallee/hsr716
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/r-lib/testthat
